@@ -34,7 +34,6 @@ You have a internet connection without a fixed IP and a [Linode](http://www.lino
         # Minutes  Hr  Dy  Mo  Wd  Command
         0,30       *   *   *   *   /path/to/linode-dyn-dns/api update
 
-7. ![Michael Jackson](http://i.imgur.com/NRmeB.jpg)
 
 ## Technical Notes
 
